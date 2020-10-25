@@ -1,0 +1,22 @@
+{
+  "name": "pwa_sub2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celvineadiputra-dev/PWA_SUB2.git"
+  },
+  "author": "celvine adi putra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celvineadiputra-dev/PWA_SUB2/issues"
+  },
+  "homepage": "https://github.com/celvineadiputra-dev/PWA_SUB2#readme",
+  "dependencies": {
+    "web-push": "^3.4.4"
+  }
+}
