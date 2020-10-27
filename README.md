@@ -2,7 +2,7 @@
 File ini adalah hasil saya dalam submission 2 dicoding
 silahkan dijadikan reverensi untuk submission kamu
 
-Submission ini mendapatkan <b>bintang 4 / 5</b> dari reviewer dicoding
+Submission ini mendapatkan <b>bintang 4⭐ / 5⭐</b> dari reviewer dicoding
 
 # 🔥PWA-Dicoding
 <p align="center"><img lign="center" src="https://raw.githubusercontent.com/celvineadiputra-dev/PWA_SUB3/master/Images/sertifikat_course_74_493119_271020092732_1.jpg"
