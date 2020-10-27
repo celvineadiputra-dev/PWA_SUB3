@@ -5,7 +5,7 @@ silahkan dijadikan reverensi untuk submission kamu
 Submission ini mendapatkan <b>bintang 4 / 5</b> dari reviewer dicoding
 
 # 🔥PWA-Dicoding
-<p align="center"><img lign="center" src="https://github.com/ikhsandev/ikhsandev.github.io/blob/master/ss1.png"
+<p align="center"><img lign="center" src="https://github.com/celvineadiputra-dev/celvineadiputra-dev.github.io/blob/master/sertifikat_course_74_493119_271020092732_1.jpg"
 width="800">&nbsp;&nbsp;&nbsp;</p>
 
 
